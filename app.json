@@ -61,7 +61,7 @@
     },
     "AUTHOR": {
       "description": "Bot author name",
-      "value": "Ibrahim Adams",
+      "value": "Byte0XFF ProDev",
       "required": false
     },
     "DEVICE_MODE": {
