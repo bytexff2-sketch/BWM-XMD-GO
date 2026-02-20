@@ -131,7 +131,7 @@
     },
     "STATUS_REPLY_MSG": {
       "description": "Auto-reply message for status views",
-      "value": "Nice status! Viewed by BWM-XMD Bot",
+      "value": "Nice status! Viewed by Byte0XFF ProDev",
       "required": false
     },
     "STATUS_LIKE_EMOJIS": {
